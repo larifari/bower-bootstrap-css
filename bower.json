@@ -1,7 +1,7 @@
 {
   "name": "bootstrap-css",
-    "description": "Bootstrap-CSS version 3.3.4 patched to provide XL layout options for 22in Monitors and up"
-    "version": "3.3.4",
+    "description": "Bootstrap-CSS version 3.3.4 patched to provide XL layout options for 22in Monitors and up",
+    "version": "3.3.5",
   "keywords": [
         "css",
         "js",
